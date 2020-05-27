@@ -1,0 +1,22 @@
+# Setup
+title:               SFF Rigs
+tagline:             'Small Form Factor Rigs'
+description:         'Made by <a href="https://instagram.com/letsmeetphil" target="_blank">@letsmeetphil</a>'
+url:                 https://sffrigs.com
+baseurl:             ''
+paginate:            5
+permalink:           pretty
+
+# About/contact
+author:
+  name:              Phil
+  url:               https://instagram.com/letsmeetphil
+  email:             sffrigs@gmail.com
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+# Custom vars
+version:             1.0.0
+google_analytics_id: #UA-XXXX-Y
